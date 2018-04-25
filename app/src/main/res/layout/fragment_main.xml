@@ -71,7 +71,10 @@
 
             android:textColor="@color/colorAccent"
             android:textSize="18sp"
-            android:textStyle="italic" />
+            android:textStyle="italic"
+            android:id="@+id/txtRegister"
+
+            />
 
     </LinearLayout>
 </RelativeLayout>
